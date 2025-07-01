@@ -14,7 +14,7 @@ function App() {
   return (
     <>
       <Helmet>
-        <title>META HADESOLUTION - Rak Minimarket Berkualitas</title>
+        <title>METARAK HADESOLUTION - Rak Minimarket Berkualitas</title>
         <meta name="description" content="Toko online terpercaya untuk rak minimarket berkualitas tinggi. META HADESOLUTION menyediakan berbagai jenis rak dengan harga terbaik." />
       </Helmet>
       <SiteContentProvider>
